@@ -48,7 +48,7 @@ class Hello extends Controller
      */
     public function show($name)
     {
-        return view('hello',array('name' => $name));
+        
     }
 
     /**

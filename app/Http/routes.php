@@ -15,9 +15,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/hello/{name}', 'Hello@show');
-Route::get('/test/{usernames}', 'Front@user');
-
 /*
 |--------------------------------------------------------------------------
 | Application Routes

@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5, Selamat Datang {{$username}}</div>
+                <div class="title">Laravel 5, Selamat Datang Laraland</div>
             </div>
         </div>
     </body>
